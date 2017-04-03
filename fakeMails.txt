@@ -1,0 +1,11 @@
+Subject: Fake mail
+
+Hello, this is a fake mail.
+==========
+Subject: Other Fake Mail
+
+Hi, this is another fakemail
+==========
+Subject: FAAAAAKE
+
+still fake, lol
